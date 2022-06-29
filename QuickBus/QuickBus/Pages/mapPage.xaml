@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps" xmlns:local="clr-namespace:QuickBus.ViewModelFolder"
+             x:Class="QuickBus.mapPage">
+
+    <Grid>
+        <maps:Map x:Name="map" IsShowingUser="True" />
+       
+        <Button x:Name="Location_Button" FontSize="10" BackgroundColor="White" CornerRadius="20" WidthRequest="40" HeightRequest="40" Margin="0,0,10,100"
+                HorizontalOptions="End" VerticalOptions="End" ImageSource="locationButtonIcon.png" Clicked="Location_Button_Clicked"/>
+    </Grid>
+
+
+
+</ContentPage>

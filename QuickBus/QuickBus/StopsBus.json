@@ -1,0 +1,206 @@
+[    
+    {
+        "ID": "0",
+        "Name": "Kiepury 3",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=160&view=mobile",
+        "X": "50.918165461832174",
+        "Y": "15.74969847862206"
+    },
+    {
+		"ID": "1",
+		"Name":  "Kiepury 15", 
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=292&view=mobile",
+		"X" : "50.918645121732574",
+		"Y" : "15.74872436538169"
+    },
+    {
+       "ID": "2",
+       "Name":  "Małcużyńskiego 2", 
+	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=755&view=mobile",
+       "X" : "50.92212377648509",
+       "Y" : "15.750948198727244"
+    },
+    {
+       "ID": "3",
+       "Name":  "Małcużyńskiego 5", 
+	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=255&view=mobile",
+       "X" : "50.92186643213874",
+       "Y" : "15.750127211352849"
+    },
+    {
+       "ID": "4",
+       "Name":  "Sygietyńskiego ZUS 1", 
+	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=754&view=mobile",
+       "X" : "50.920774125830626",
+       "Y" : "15.75694431689360"
+    },
+    {
+       "ID": "5",
+       "Name":  "Sygietyńskiego ZUS 2", 
+	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=254&view=mobile",
+       "X" : "50.920656159118735",
+       "Y" : "15.75720184168785"
+    },
+    {
+       "ID": "7",
+       "Name":  "Kilara 2", 
+       "X" : "50.921592714959914",
+	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=239&view=mobile",
+       "Y" : "15.76001624179562"
+    }, 
+	{
+		"ID" : "8",
+		"Name" : "Sygietyńskiego 02",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=721&view=mobile",
+		"X" : "50.91857978320365",
+		"Y" : "15.75463550343828"
+	},
+	{
+		"ID" : "9",
+		"Name" : "Sygietyńskiego 01",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=221&view=mobile",
+		"X" : "50.91866519241196",
+		"Y" : "15.754948947332386"
+	},
+	{
+		"ID" : "10",
+		"Name" : "Bacewicz 04",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=641&view=mobile",
+		"X" : "50.916186437740855",
+		"Y" : "15.759783819527646"
+	},
+	{
+		"ID" : "11",
+		"Name" : "Bacewicz 03",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=141&view=mobile",
+		"X" : "50.91605368982179",
+		"Y" : "15.761521748882485"
+	},
+	{
+		"ID" : "12",
+		"Name" : "Ogińskiego Działki 08",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=91&view=mobile",
+		"X" : "50.917658811616704",
+		"Y" : "15.763815210097176"
+	},
+	{
+		"ID" : "13",
+		"Name" : "Ogińskiego Działki 07",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=591&view=mobile",
+		"X" : "50.91789457458731",
+		"Y" : "15.763647939752945"
+	},
+	{
+		"ID" : "14",
+		"Name" : "Szpital 06",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=90&view=mobile",
+		"X" : "50.91452118784705",
+		"Y" : "15.762609329184716"
+	},
+	{
+		"ID" : "15",
+		"Name" : "Szpital 05",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=590&view=mobile",
+		"X" : "50.913734945494504",
+		"Y" : "15.761436331058345"
+	},
+	{
+		"ID" : "16",
+		"Name" : "Moniuszki 04",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=89&view=mobile",
+		"X" : "50.91147073828399",
+		"Y" : "15.759896286061894"
+	},
+	{
+		"ID" : "17",
+		"Name" : "Moniuszki 03",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=589&view=mobile",
+		"X" : "50.911012943701486",
+		"Y" : "15.75872408422597"
+	},
+	{
+		"ID" : "18",
+		"Name" : "Karłowicza 01",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=588&view=mobile",
+		"X" : "50.90981718884376",
+		"Y" : "15.753390045143473"
+	},
+	{
+		"ID" : "19",
+		"Name" : "Karłowicza 02",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=88&view=mobile",
+		"X" : "50.90939892172301",
+		"Y" : "15.751501364411984"
+	},
+	{
+		"ID" : "20",
+		"Name" : "Różyckiego-M.Ogińskiego 03",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=41&view=mobile",
+		"X" : "50.90853828897493",
+		"Y" : "15.749955171204347"
+	},
+	{
+		"ID" : "21",
+		"Name" : "Różyckiego-M.Ogińskiego 04",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=541&view=mobile",
+		"X" : "50.908110247417504",
+		"Y" : "15.750411195235616"
+	},
+	{
+		"ID" : "22",
+		"Name" : "Drzymały 02",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=598&view=mobile&",
+		"X" : "50.90505718186166",
+		"Y" : "15.749481315789152"
+	},
+	{
+		"ID" : "23",
+		"Name" : "Drzymały 01",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=98&view=mobile",
+		"X" : "50.90497424103985",
+		"Y" : "15.748369145769221"
+	},
+	{
+		"ID" : "24",
+		"Name" : "Osiedle Robotnicze 01",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=587&view=mobile",
+		"X" : "50.90685909359735",
+		"Y" : "15.744016520222429"
+	},
+	{
+		"ID" : "25",
+		"Name" : "Osiedle Robotnicze 02",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=87&view=mobile",
+		"X" : "50.90646394931282",
+		"Y" : "15.74294363701121"
+	},
+	{
+		"ID" : "26",
+		"Name" : "Podwale 01",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=38&view=mobile",
+		"X" : "50.904870181197",
+		"Y" : "15.733141442472986"
+	},
+	{
+		"ID" : "27",
+		"Name" : "Podwale 02",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=538&view=mobile",
+		"X" : "50.90455972651475",
+		"Y" : "15.731881909566214"
+	},
+	{
+		"ID" : "28",
+		"Name" : "Skłodowskiej-Cure 02",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=506&view=mobile",
+		"X" : "50.89902395106141",
+		"Y" : "15.73220323014501"
+	},
+	{
+		"ID" : "29",
+		"Name" : "Skłodowskiej-Cure 01",
+		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=6&view=mobile",
+		"X" : "50.89918483564331",
+		"Y" : "15.732627122057176"
+	},
+
+]
