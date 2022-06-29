@@ -1,53 +1,53 @@
 [    
-    {
-        "ID": "0",
-        "Name": "Kiepury 3",
+	{
+	"ID": "0",
+	"Name": "Kiepury 3",
 		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=160&view=mobile",
-        "X": "50.918165461832174",
-        "Y": "15.74969847862206"
-    },
-    {
-		"ID": "1",
-		"Name":  "Kiepury 15", 
-		"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=292&view=mobile",
-		"X" : "50.918645121732574",
-		"Y" : "15.74872436538169"
-    },
-    {
-       "ID": "2",
-       "Name":  "Małcużyńskiego 2", 
+	"X": "50.918165461832174",
+	"Y": "15.74969847862206"
+	},
+	{
+	"ID": "1",
+	"Name":  "Kiepury 15", 
+	"URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=292&view=mobile",
+	"X" : "50.918645121732574",
+	"Y" : "15.74872436538169"
+	},
+	{
+	"ID": "2",
+	"Name":  "Małcużyńskiego 2", 
 	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=755&view=mobile",
-       "X" : "50.92212377648509",
-       "Y" : "15.750948198727244"
-    },
-    {
-       "ID": "3",
-       "Name":  "Małcużyńskiego 5", 
+	"X" : "50.92212377648509",
+	"Y" : "15.750948198727244"
+	},
+	{
+	"ID": "3",
+	"Name":  "Małcużyńskiego 5", 
 	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=255&view=mobile",
-       "X" : "50.92186643213874",
-       "Y" : "15.750127211352849"
-    },
-    {
-       "ID": "4",
-       "Name":  "Sygietyńskiego ZUS 1", 
+	"X" : "50.92186643213874",
+	"Y" : "15.750127211352849"
+	},
+	{
+	"ID": "4",
+	"Name":  "Sygietyńskiego ZUS 1", 
 	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=754&view=mobile",
-       "X" : "50.920774125830626",
-       "Y" : "15.75694431689360"
-    },
-    {
-       "ID": "5",
-       "Name":  "Sygietyńskiego ZUS 2", 
+	"X" : "50.920774125830626",
+	"Y" : "15.75694431689360"
+	},
+	{
+	"ID": "5",
+	"Name":  "Sygietyńskiego ZUS 2", 
 	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=254&view=mobile",
-       "X" : "50.920656159118735",
-       "Y" : "15.75720184168785"
-    },
-    {
-       "ID": "7",
-       "Name":  "Kilara 2", 
-       "X" : "50.921592714959914",
+	"X" : "50.920656159118735",
+	"Y" : "15.75720184168785"
+	},
+	{
+	"ID": "7",
+	"Name":  "Kilara 2", 
+	"X" : "50.921592714959914",
 	   "URL": "http://jeleniagora.trapeze.fi/vm/web?command=departuresearch&action=by_stopid&stopid=239&view=mobile",
-       "Y" : "15.76001624179562"
-    }, 
+	"Y" : "15.76001624179562"
+	}, 
 	{
 		"ID" : "8",
 		"Name" : "Sygietyńskiego 02",
